@@ -1,15 +1,5 @@
 package com.chelsea;
 
-/*Create a method that will take a string as a parameter and will perform the math required and return the integer result.
-example 1:
-input: "5 + 7" | Output: 12
-example 2:
-input: "8 x 2" | Output 16
-
-requirements:
-can accept 2 integers and one operator.
-can handle the following operators: "+" "-" "/" "x" "%" (extra challenge allow both * and X for multiplication as well)*/
-
 import java.util.Arrays;
 
 public class algoChallenge {
